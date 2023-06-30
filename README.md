@@ -26,7 +26,7 @@ numero_saques: Variável que conta o número de saques realizados no dia.
 LIMITE_SAQUES: Constante que define o limite máximo de saques diários.
 limite_tentativas: Variável que registra o número de tentativas de saque com saldo insuficiente.
 
-#Uso
+# Uso
 
 O programa é executado em um loop infinito, exibindo um menu de opções ao usuário. O usuário deve digitar o número correspondente à opção desejada.
 
